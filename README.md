@@ -1,10 +1,6 @@
 # 💫About Me :
-I am a student of Systems Analysis and Development, focused on enhancing my technical skills and contributing to innovative projects. I have hands-on experience in front-end development, where I applied knowledge in HTML, CSS, JavaScript, and modern frameworks to create responsive and intuitive interfaces. I am passionate about technology and constantly seek to learn new tools and methodologies that can add value to my work. With a proactive, collaborative, and dedicated mindset, I am looking for opportunities to grow professionally and tackle challenges that allow me to evolve as a developer and contribute to impactful technological solutions.
-🖥️ HTML + CSS, JavaScript, Java,  Node.js,
-📅 Programming since 2023
-📚 Student of Systems Analysis and Development at the Brazilian University Center (UNIBRA)
-🤩 In Love to build any application, in any language, as long I'm being challenged!
-📫 Contact me via pedrovilela0101@gmail.com or via LinkedIn
+Backend Developer with a strong focus on Python and Java, experienced in API development, web applications, database modeling, and scalable software architecture. Skilled in FastAPI, Spring Boot, Docker, PostgreSQL, SQL, RabbitMQ, Swagger, Git, AWS, DDD, and Clean Architecture. Comfortable working with both agile and waterfall methodologies, always aiming to deliver robust, maintainable, and high-quality solutions.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedro-vinicius-93736022a) 
